@@ -141,7 +141,3 @@ The model using "LSTM" is as follows. <br>Please change "use_lstm = False" to "T
 
 # Author
 Ram kumbhre
-
- 
-# License 
-hand-gesture-recognition-using-mediapipe is under [Apache v2 license](LICENSE).
